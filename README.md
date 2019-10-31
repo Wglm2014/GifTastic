@@ -6,7 +6,7 @@ This project can be usefull to understand how to use an API and also web dynamic
 ## Getting Started
 
 * Before starting with you need to know how to clone repositories from Github to your local machine [Git Reference](https://www.git-scm.com/docs). 
-* You need to register for the gif
+* You need to register to [giphy](https://giphy.com/) adn get an API key.
 
 ## Installing and Starting the app locally
 Clone the app from this repository to you local drive of you PC (previously I recomended to have knowledge of how to clone repositories and where to find the information). 
@@ -18,13 +18,10 @@ To run it on the web follow the instuctions provided by github documentation [Gi
 
 ## Built With
 
-### for data persistance
-* Firebase
-
 ### client side for the user interface.
 * Visual Studio Code
 * HTML, CSS, Javascriopt
-* JQUERY, BOOTSTRAP, Moment.js
+* JQUERY, BOOTSTRAP,AJAX
 
 # Author
 * Wilson Linares 
